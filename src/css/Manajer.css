@@ -1,0 +1,9 @@
+.row{
+    height: 100%;
+    width: 100%;
+}
+
+.row .menu-chart{
+    display: flex;
+    justify-content: center;
+}

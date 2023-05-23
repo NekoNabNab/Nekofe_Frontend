@@ -1,0 +1,15 @@
+.background-login{
+    background-image: url(../assets/img/background.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.login-logo{
+    justify-content: center;
+    align-items: center;
+}
+
+.login-logo .logo-login{
+    height: 24vh;
+}

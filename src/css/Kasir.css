@@ -1,0 +1,15 @@
+.menu-card{
+    height: 400px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.total{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.keranjang{
+    height: 350px;
+}
